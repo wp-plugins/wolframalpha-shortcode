@@ -1,4 +1,4 @@
-=== Wolfram|Alpha Widget Shortcode Plugin ===
+=== Wolfram|Alpha Widget Shortcode ===
 Contributors: wolframalpha
 Tags: 
 Requires at least: 2.5
