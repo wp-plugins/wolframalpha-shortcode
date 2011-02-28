@@ -18,20 +18,18 @@ http://developer.wolframalpha.com/widgets
 == Installation ==
 
 1. Download the Wolfram|Alpha Shortcode plugin zip file.
-1. Place the wolframalpha_widget_shortcode.php file in the plugins/ directory of your WordPress installation
+1. Place the wolframalpha_widget_shortcode.php file in the plugins/ directory of your WordPress installation.
 
 
 == Frequently Asked Questions ==
 
 = How do I use the Wolfram|Alpha Widget Shortcode? =
 
-the shortcode is used like this:
-[wolframalphawidget id="widgetid"]
+The shortcode is used like this: [wolframalphawidget id="widgetid"]
 
-example:
-[wolframalphawidget id="8a3363abe792db2d8761d6403605aeb7"]
+Example: [wolframalphawidget id="8a3363abe792db2d8761d6403605aeb7"]
 
-See your individual widget's homepage for specific code
+See your individual widget's homepage for specific code.
 
 
 == Screenshots ==
